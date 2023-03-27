@@ -1,0 +1,10 @@
+.dropdown__menu {
+  background-color: #f0f0f0;
+  position: absolute;
+  display: flex;
+  top: 71px;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+  padding: 7px 0;
+}

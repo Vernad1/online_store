@@ -1,0 +1,17 @@
+label {
+  font-size: 13px;
+  font-weight: 600;
+  margin: 10px 0;
+  text-transform: uppercase;
+}
+
+input {
+  width: 100%;
+  padding: 15px 15px;
+  border: 1px solid #000;
+}
+
+input::placeholder {
+  color: #000;
+  font-size: 16px;
+}

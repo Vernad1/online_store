@@ -1,0 +1,23 @@
+.sizes {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.size {
+  box-sizing: border-box;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  width: 40px;
+  border: 1px solid #999;
+  margin-right: 10px;
+  transition: border 0.1s linear;
+}
+
+.size:hover {
+  cursor: pointer;
+}
